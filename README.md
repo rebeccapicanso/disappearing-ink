@@ -1,2 +1,3 @@
 # read-write-burn
-crontab script written for Mac &amp; Linux that'll auto corrupt all text files written in a set directory.
+
+creates a directory & a mirror anaconda environment. Tkinter notepad takes user input, saves it to source directory, ./corrupt.sh corrupts the text file, and it gets thrown into the anaconda environment.
